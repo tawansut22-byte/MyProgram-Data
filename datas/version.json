@@ -1,0 +1,12 @@
+{
+  "version": "2.13.1",
+  "url": "https://github.com/tawansut22-byte/MyProgram-Data/releases/latest",
+  "mandatory": false,
+  "notes": "เพิ่มหน้าแรกออนไลน์ + ระบบเช็คอัปเดตในตัว",
+  "links": {
+    "website": "https://github.com/tawansut22-byte/MyProgram-Data",
+    "discord": "https://discord.gg/your-invite-code",
+    "facebook": "https://facebook.com/your-page",
+    "youtube": "https://youtube.com/@your-channel"
+  }
+}
